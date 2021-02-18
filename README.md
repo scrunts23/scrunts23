@@ -7,6 +7,9 @@
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=scrunts23)](https://github.com/scrunts23/github-readme-stats)
 
+  https://github-readme-medium-recent-article.vercel.app/medium/scrunts23/0
+
+
 
 <!--
 **scrunts23/scrunts23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
