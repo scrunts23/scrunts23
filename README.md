@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I’m Ryan. Welcome to my tiny corner of Github! I am a Data Scientist with a particular interest in modeling based on sample datasets. My specialties include Phyton, ArcGis, and Micromine.
+Hi, I’m Ryan. Welcome to my tiny corner of Github! I am a Data Scientist with a particular interest in modeling based on sample datasets.
 
 After eight years spent in the Geological field, I’ve developed strong creative problem-solving, organizational, and communication skills working on various projects as an individual and within a team. I am interested in combining those skills with data science to help build engaging and cutting-edge projects.
 
