@@ -1,9 +1,10 @@
 ### Hi there 👋, my name is Ryan 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files thatHi, I’m Ryan. Welcome to my tiny corner of Github! I am a Data Scientist with a particular interest in modeling based on sample datasets.
+
+Hi, I’m Ryan. Welcome to my tiny corner of Github! I am a Data Scientist with a particular interest in modeling based on sample datasets and machine learning.
 
 After eight years spent in the Geological field, I’ve developed strong creative problem-solving, organizational, and communication skills working on various projects as an individual and within a team. I am interested in combining those skills with data science to help build engaging and cutting-edge projects.
 
-If I am not programming my latest model, I am likely out playing disc golf, rockhounding, or traveling in my car on backcountry roads with no destination in sight. If you like to know me please feel free to contact me! I am always looking for collaboration on any project.you can copy/paste and use in your profile.
+If I am not programming my latest model, I am likely out playing disc golf, rockhounding, or traveling in my car on a backcountry road with no destination in sight. If you like to know me better please feel free to contact me! I am always looking for collaboration on any project .
 
 Skills: Python/SQL
 
