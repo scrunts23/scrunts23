@@ -7,7 +7,7 @@ If I am not programming my latest model, I am likely out playing disc golf, rock
 
 Skills: Python/SQL
 
-- 🔭 I’m currently working on cityscape app 
+- 🔭 I’m currently working on medcab API (medical canbis recomender) and finding my first DS position
 - 👯 I’m looking to collaborate on any collaborated project 
 - 💬 Ask me about Disc Golf or my Doggo Barkley 
 - 📫 How to reach me: LinkedIn/Gmail 
